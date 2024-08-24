@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/monsoon-mushrooms-webpage/static/css/main.3871d7c6.css",
+    "main.js": "/monsoon-mushrooms-webpage/static/js/main.cc8492ab.js",
+    "static/js/453.2b9b63ba.chunk.js": "/monsoon-mushrooms-webpage/static/js/453.2b9b63ba.chunk.js",
+    "static/media/logo.png": "/monsoon-mushrooms-webpage/static/media/logo.cbeb701bc48ddd4c9e36.png",
+    "static/media/background.png": "/monsoon-mushrooms-webpage/static/media/background.a374525568775cf25880.png",
+    "static/media/rahul.png": "/monsoon-mushrooms-webpage/static/media/rahul.f25a7a71971f33dffde3.png",
+    "index.html": "/monsoon-mushrooms-webpage/index.html",
+    "main.3871d7c6.css.map": "/monsoon-mushrooms-webpage/static/css/main.3871d7c6.css.map",
+    "main.cc8492ab.js.map": "/monsoon-mushrooms-webpage/static/js/main.cc8492ab.js.map",
+    "453.2b9b63ba.chunk.js.map": "/monsoon-mushrooms-webpage/static/js/453.2b9b63ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3871d7c6.css",
+    "static/js/main.cc8492ab.js"
+  ]
+}
