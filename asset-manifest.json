@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/monsoon-mushrooms-webpage/static/css/main.2b3722e1.css",
-    "main.js": "/monsoon-mushrooms-webpage/static/js/main.e19ab0e7.js",
-    "static/js/453.2b9b63ba.chunk.js": "/monsoon-mushrooms-webpage/static/js/453.2b9b63ba.chunk.js",
-    "static/media/mushroomPickle.png": "/monsoon-mushrooms-webpage/static/media/mushroomPickle.c6f5dd62d81b1ccbdfd9.png",
-    "static/media/mushroomProduction.png": "/monsoon-mushrooms-webpage/static/media/mushroomProduction.fa58441234061f12615d.png",
-    "static/media/mushroomSpawn.png": "/monsoon-mushrooms-webpage/static/media/mushroomSpawn.842316655f9838b3c758.png",
-    "static/media/trainingClass.png": "/monsoon-mushrooms-webpage/static/media/trainingClass.8427e0c4c86b84782c6a.png",
-    "static/media/pellet.png": "/monsoon-mushrooms-webpage/static/media/pellet.e8dfcd989a05ba2484b0.png",
-    "static/media/logo.png": "/monsoon-mushrooms-webpage/static/media/logo.cbeb701bc48ddd4c9e36.png",
-    "static/media/logo1.png": "/monsoon-mushrooms-webpage/static/media/logo1.2d06577fada602b00e2f.png",
-    "static/media/background.png": "/monsoon-mushrooms-webpage/static/media/background.a374525568775cf25880.png",
-    "static/media/rahul.png": "/monsoon-mushrooms-webpage/static/media/rahul.f25a7a71971f33dffde3.png",
-    "index.html": "/monsoon-mushrooms-webpage/index.html",
-    "main.2b3722e1.css.map": "/monsoon-mushrooms-webpage/static/css/main.2b3722e1.css.map",
-    "main.e19ab0e7.js.map": "/monsoon-mushrooms-webpage/static/js/main.e19ab0e7.js.map",
-    "453.2b9b63ba.chunk.js.map": "/monsoon-mushrooms-webpage/static/js/453.2b9b63ba.chunk.js.map"
+    "main.css": "/static/css/main.2b3722e1.css",
+    "main.js": "/static/js/main.f975fb16.js",
+    "static/js/453.2b9b63ba.chunk.js": "/static/js/453.2b9b63ba.chunk.js",
+    "static/media/mushroomPickle.png": "/static/media/mushroomPickle.c6f5dd62d81b1ccbdfd9.png",
+    "static/media/mushroomProduction.png": "/static/media/mushroomProduction.fa58441234061f12615d.png",
+    "static/media/mushroomSpawn.png": "/static/media/mushroomSpawn.842316655f9838b3c758.png",
+    "static/media/trainingClass.png": "/static/media/trainingClass.8427e0c4c86b84782c6a.png",
+    "static/media/pellet.png": "/static/media/pellet.e8dfcd989a05ba2484b0.png",
+    "static/media/logo.png": "/static/media/logo.cbeb701bc48ddd4c9e36.png",
+    "static/media/logo1.png": "/static/media/logo1.2d06577fada602b00e2f.png",
+    "static/media/background.png": "/static/media/background.a374525568775cf25880.png",
+    "static/media/rahul.png": "/static/media/rahul.f25a7a71971f33dffde3.png",
+    "index.html": "/index.html",
+    "main.2b3722e1.css.map": "/static/css/main.2b3722e1.css.map",
+    "main.f975fb16.js.map": "/static/js/main.f975fb16.js.map",
+    "453.2b9b63ba.chunk.js.map": "/static/js/453.2b9b63ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b3722e1.css",
-    "static/js/main.e19ab0e7.js"
+    "static/js/main.f975fb16.js"
   ]
 }
