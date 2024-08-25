@@ -2,6 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { LandingPage } from "./containers/LandingPage";
 import { Team } from "./containers/Team";
+import { OurServices} from "./containers/OurServices"
 import { AboutUs } from "./containers/AboutUs";
 import { Contact } from "./containers/Contact";
 
@@ -12,6 +13,7 @@ export const MainPage = () => {
         <Route path="/" element={<LandingPage />} />
         <Route path="/#team" element={<Team />} />
         <Route path="/#aboutUs" element={<AboutUs />} />
+        <Route path="/#ourServices" element={<OurServices />} />
         <Route path="/#contactUs" element={<Contact />} />
       </Routes>
     </Router>

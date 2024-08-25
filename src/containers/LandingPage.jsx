@@ -3,6 +3,8 @@ import background from '../assets/background.png';
 import Navbar from './Nabar';
 import { Team } from './Team';
 import { AboutUs } from './AboutUs'
+import { OurServices } from './OurServices';
+import { Contact } from './Contact'
 
 export const LandingPage = () => {
   return (
@@ -21,7 +23,15 @@ export const LandingPage = () => {
     </h1>
     </div>
     <AboutUs/>
+    <div className="bg-white ">
+    <OurServices/>
+    </div>
+    <div className='bg-gray-100'>
     <Team/>
+    </div>
+    <div className='bg-gray-700 bg-blend-darken'>
+     <Contact/>
+    </div>
     </div>
   );
 };
